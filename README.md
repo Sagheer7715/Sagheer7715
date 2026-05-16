@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Sagheer Ahmed 👋
 
-<!--
-**Sagheer7715/Sagheer7715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of Ecommerce Business Solutions — helping Amazon brands scale profitably with PPC, SEO, Seller Central, Vendor Central, catalog management, and marketplace growth strategy.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Amazon PPC Management
+- Listing Optimization & SEO
+- Seller Central & Vendor Central Support
+- Catalog & Flat File Troubleshooting
+- A+ Content & Brand Store Strategy
+- Shopify & Marketplace Growth Support
+
+## Featured Project
+
+### Ecommerce Business Solutions
+A professional website for my Amazon PPC, SEO, and marketplace growth agency.
+
+Website: https://ecombusinesssolution.com/
+
+## Connect
+
+- Website: https://ecombusinesssolution.com/
+- Facebook: https://www.facebook.com/AmazonVirtualsolutions
